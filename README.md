@@ -1,4 +1,3 @@
-* Mars Mission *
 
 # Mars Mission
 
